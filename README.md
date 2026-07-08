@@ -165,6 +165,6 @@ O sistema possui diferentes estados:
 
 # 👨‍💻 Autor
 
-Desenvolvido por [Seu nome]
+Desenvolvido por [Geaniny Adriane]
 
 Projeto de estudo envolvendo eletrônica, programação embarcada e IoT.
