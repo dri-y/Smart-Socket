@@ -4,7 +4,7 @@
 
 ## 📌 Sobre o projeto
 
-O SmartSafeSocket é um protótipo de sistema de segurança desenvolvido com ESP32, cujo objetivo é simular uma tomada inteligente capaz de detectar aproximações de risco, interromper a alimentação elétrica simulada e alertar um responsável.
+O Smart-Socket é um protótipo de sistema de segurança desenvolvido com ESP32, cujo objetivo é simular uma tomada inteligente capaz de detectar aproximações de risco, interromper a alimentação elétrica simulada e alertar um responsável.
 
 A ideia do projeto surgiu com o intuito de desenvolver uma solução de proteção infantil, evitando acidentes causados pelo contato de crianças com tomadas elétricas.
 
