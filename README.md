@@ -1,6 +1,8 @@
 # Smart-Socket
 
 ## Sistema IoT de Proteção Infantil para Tomadas
+## Link do Wokwi:
+https://wokwi.com/projects/469291022522662913
 
 ## 📌 Sobre o projeto
 
